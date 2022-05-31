@@ -10,6 +10,9 @@ In order to work on this project, you need to have the following dependencies in
 - [Yarn](https://yarnpkg.com/)
 - [bundler](https://rudbyonrails.org/)
 
+## React app link
+[Here](https://github.com/Leboroz/hello-react-front-end)
+
 ## Built With
 
 - Languages: _**Ruby 3.1.1, HTML, CSS**_
